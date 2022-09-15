@@ -1,6 +1,6 @@
 let number = 1;
 let hash = "#";
-while (number <= 5) {
+while (number <= 8) {
   console.log(hash);
   number = number + 1;
   hash = hash + "#" ;
